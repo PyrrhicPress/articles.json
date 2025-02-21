@@ -18,5 +18,10 @@
     "title": "test 2",
     "description": "test 2",
     "url": "www.pyrrhicpress.org"
+  },
+  {
+    "title": "test 3",
+    "description": "testauto 3",
+    "url": "www.pyrrhicpress.org"
   }
 ]
